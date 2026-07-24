@@ -1,0 +1,15 @@
+START
+  Define function add_numbers(a, b):
+    return a + b
+
+  Call function with values
+
+  Create logical vector lv = [TRUE, FALSE, TRUE]
+
+  Perform logical operations:
+    AND operation
+    OR operation
+    NOT operation
+
+  Display results
+END
