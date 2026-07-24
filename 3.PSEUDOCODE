@@ -1,0 +1,18 @@
+START
+  Create matrix A (2x2)
+  Create matrix B (2x2)
+  Create 3D array arr (2x2x2)
+
+  Perform operations:
+    matrix_add = A + B
+    matrix_mul = A * B (element-wise)
+    matrix_dot = A %*% B (matrix multiplication)
+
+  Perform array operation:
+    arr2 = arr + 2
+
+  Display all results
+
+  Analyze:
+    Element-wise vs matrix multiplication difference
+END
