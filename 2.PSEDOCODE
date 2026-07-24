@@ -1,0 +1,25 @@
+START
+  Create vector v = [1,2,3,4,5]
+  Create list l = [1, "R", TRUE]
+  Create matrix m = 2x2 matrix
+
+  Perform indexing:
+    access v[2]
+    access l[2]
+    access m[1,2]
+
+  Update:
+    change v[3] = 10
+    change m[2,2] = 20
+
+  Aggregation:
+    sum_v = sum of vector
+    mean_m = mean of matrix
+
+  Compare structures:
+    Vector = same data type
+    List = mixed data types
+    Matrix = 2D structured data
+
+  Display results
+END
