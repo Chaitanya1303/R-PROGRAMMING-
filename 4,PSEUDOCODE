@@ -1,0 +1,18 @@
+START
+  Create data frame df with:
+    id (numeric)
+    name (character)
+    marks (numeric)
+
+  Add column grade
+
+  Delete column marks
+
+  Modify column id values
+
+  Perform summary:
+    show structure
+    show summary statistics
+
+  Display final data frame
+END
