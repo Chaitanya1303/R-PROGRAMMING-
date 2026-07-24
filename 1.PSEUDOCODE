@@ -1,0 +1,14 @@
+START
+  Declare numeric variable num = 10.5
+  Declare character variable name = "R Language"
+  Declare logical variable flag = TRUE
+
+  Perform arithmetic:
+    result1 = num + 5
+    result2 = num * 2
+
+  Perform logical operations:
+    result3 = (num > 5) AND flag
+
+  Display all variables and results
+END
